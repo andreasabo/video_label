@@ -1,0 +1,26 @@
+{
+  "name": "video_label",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreasabo/video_label.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreasabo/video_label/issues"
+  },
+  "homepage": "https://github.com/andreasabo/video_label#readme",
+  "devDependencies": {
+    "video.js": "^7.6.6"
+  },
+  "dependencies": {
+    "react-video-js-player": "^1.1.1",
+    "video.js": "^7.6.6"
+  }
+}
